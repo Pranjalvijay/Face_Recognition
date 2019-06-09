@@ -20,8 +20,6 @@ while(True):
         if (conf>50):
             if (Id == 1):
                 Id="Pranjal"
-            elif(Id == 2):
-                Id="Pratibha"
             else:
                 Id="Unknown"
         
